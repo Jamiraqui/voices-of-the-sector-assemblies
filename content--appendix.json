@@ -1,0 +1,412 @@
+[
+  {
+    "theme": "Lay Empowerment and Formation for Mission Continuity",
+    "order": 0,
+    "code": "C1",
+    "label": "Investment in Lay Formation",
+    "definition": "Protect funding for lay formation despite institutional budget pressures.",
+    "sector": "Singapore, Hong Kong, Philippines",
+    "category": "Mission Assembly",
+    "source_cluster": "1. Lay Empowerment and Formation (4MA)"
+  },
+  {
+    "theme": "Lay Empowerment and Formation for Mission Continuity",
+    "order": 0,
+    "code": "C2",
+    "label": "Systematic formation for staff and leadership",
+    "definition": "Provide continuous, structured mission and leadership formation for partners, staff, young people and Brothers.",
+    "sector": "Singapore, Hong Kong, Philippines, Japan, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "1. Lay Empowerment and Formation (4MA)"
+  },
+  {
+    "theme": "Lay Empowerment and Formation for Mission Continuity",
+    "order": 0,
+    "code": "C8",
+    "label": "Lay empowerment",
+    "definition": "Enable partners to share responsibility, leadership and ownership of the mission with Brothers.",
+    "sector": "Philippines, Japan, Hong Kong, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "1. Lay Empowerment and Formation (4MA)"
+  },
+  {
+    "theme": "Lay Empowerment and Formation for Mission Continuity",
+    "order": 0,
+    "code": "C26",
+    "label": "Embedding Lasallian service and formation",
+    "definition": "Integrate formation, service, social action and mission sustainability into everyday institutional life.",
+    "sector": "Japan, Hong Kong, Philippines, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "1. Lay Empowerment and Formation (4MA)"
+  },
+  {
+    "theme": "Lay Empowerment and Formation for Mission Continuity",
+    "order": 0,
+    "code": "C18",
+    "label": "Formation and participation in mission",
+    "definition": "Deepen Lasallian identity and shared responsibility through formation, reflection, service and spirituality.",
+    "sector": "Philippines, Hong Kong",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "1. Lay Empowerment and Formation (4MA)"
+  },
+  {
+    "theme": "Social Engagement, Environmental Stewardship and the Peripheries",
+    "order": 1,
+    "code": "C5",
+    "label": "Service Learning",
+    "definition": "Connect learning with service, immersion, volunteering and social action.",
+    "sector": "Singapore, Philippines, Hong Kong, Japan, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Social Engagement, Environmental Stewardship and the Peripheries (4MA)"
+  },
+  {
+    "theme": "Social Engagement, Environmental Stewardship and the Peripheries",
+    "order": 1,
+    "code": "C36",
+    "label": "Community livelihood and vocational empowerment",
+    "definition": "Build career, employment, vocational and livelihood capacities that support participation and self-reliance.",
+    "sector": "Philippines, Myanmar, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Social Engagement, Environmental Stewardship and the Peripheries (4MA)"
+  },
+  {
+    "theme": "Social Engagement, Environmental Stewardship and the Peripheries",
+    "order": 1,
+    "code": "C40",
+    "label": "Ecological conversion and environmental stewardship",
+    "definition": "Embed waste reduction, resource stewardship, student leadership and sustainability partnerships in school culture.",
+    "sector": "Malaysia, Hong Kong, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Social Engagement, Environmental Stewardship and the Peripheries (4MA)"
+  },
+  {
+    "theme": "Social Engagement, Environmental Stewardship and the Peripheries",
+    "order": 1,
+    "code": "C10",
+    "label": "Evolving internal and external peripheries",
+    "definition": "Recognize and respond to visible, hidden, internal and external forms of exclusion.",
+    "sector": "Philippines, Japan, Hong Kong, Myanmar, Singapore, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Social Engagement, Environmental Stewardship and the Peripheries (4MA)"
+  },
+  {
+    "theme": "Social Engagement, Environmental Stewardship and the Peripheries",
+    "order": 1,
+    "code": "C32",
+    "label": "Preventive safeguarding and protection",
+    "definition": "Prevent harm through proactive safeguarding systems that protect vulnerable people.",
+    "sector": "Philippines",
+    "category": "Brothers Assembly",
+    "source_cluster": "2. Social Engagement, Environmental Stewardship and the Peripheries (4MA)"
+  },
+  {
+    "theme": "Social Engagement, Environmental Stewardship and the Peripheries",
+    "order": 1,
+    "code": "C24",
+    "label": "Accessible mission opportunities",
+    "definition": "Widen access for vulnerable learners through affordable pathways, scholarships and targeted support.",
+    "sector": "Japan, Hong Kong, Philippines, Myanmar, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Social Engagement, Environmental Stewardship and the Peripheries (4MA)"
+  },
+  {
+    "theme": "Lasallian/Catholic Identity",
+    "order": 2,
+    "code": "C4",
+    "label": "Transmission of values to the school community",
+    "definition": "Share Lasallian values, spirituality and identity through formation and visible witness.",
+    "sector": "Singapore, Hong Kong, Philippines, Myanmar, Thailand, Malaysia, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Mission Continuity and Lasallian/Catholic Identity (4MA)"
+  },
+  {
+    "theme": "Lasallian/Catholic Identity",
+    "order": 2,
+    "code": "C12",
+    "label": "Collaboration in Mission",
+    "definition": "Coordinate partnerships that share resources, expertise, programmes and effective practices.",
+    "sector": "Philippines, Japan, Hong Kong, Myanmar, Singapore, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Mission Continuity and Lasallian/Catholic Identity (4MA)"
+  },
+  {
+    "theme": "Lasallian/Catholic Identity",
+    "order": 2,
+    "code": "C19",
+    "label": "Commitment to organizational values",
+    "definition": "Embed inclusion, diversity, holistic formation, collaboration and mission-centred systems in institutional life.",
+    "sector": "Philippines, Hong Kong, Singapore, Japan, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Mission Continuity and Lasallian/Catholic Identity (4MA)"
+  },
+  {
+    "theme": "Lasallian/Catholic Identity",
+    "order": 2,
+    "code": "C6",
+    "label": "Hybrid Identity (Lasallian and Catholic)",
+    "definition": "Express Lasallian and Catholic identity while welcoming meaningful participation across faiths.",
+    "sector": "Singapore, Hong Kong, Malaysia, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Mission Continuity and Lasallian/Catholic Identity (4MA)"
+  },
+  {
+    "theme": "Lasallian/Catholic Identity",
+    "order": 2,
+    "code": "C9",
+    "label": "Overextension, burnout, and community stability",
+    "definition": "Address excessive roles, exhaustion and unstable communities that weaken ministry and mutual care.",
+    "sector": "Philippines, Hong Kong, Japan, Singapore, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Mission Continuity and Lasallian/Catholic Identity (4MA)"
+  },
+  {
+    "theme": "Lasallian/Catholic Identity",
+    "order": 2,
+    "code": "C20",
+    "label": "Human resource and institutional capacity",
+    "definition": "Address staffing, turnover, specialist shortages, workloads and deployment pressures affecting ministry.",
+    "sector": "Philippines, Hong Kong, Myanmar, Japan, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Mission Continuity and Lasallian/Catholic Identity (4MA)"
+  },
+  {
+    "theme": "Life of the Brothers",
+    "order": 3,
+    "code": "C3",
+    "label": "Evolution of vocation of the Brothers",
+    "definition": "Renew Brothers' community life, accompaniment, ministry and visible presence as realities change.",
+    "sector": "Singapore, Philippines, Hong Kong, Malaysia, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "1. Life of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C14",
+    "label": "Relational and emotional leadership",
+    "definition": "Lead through compassionate listening, conflict management, spiritual availability and personal presence.",
+    "sector": "Philippines, Myanmar, Singapore, Thailand, Malaysia, Hong Kong, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Leadership of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C15",
+    "label": "Participatory and consultative leadership",
+    "definition": "Share power and accompany communities through genuine consultation and discernment.",
+    "sector": "Philippines, Hong Kong, Japan, Malaysia",
+    "category": "Brothers Assembly",
+    "source_cluster": "2. Leadership of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C16",
+    "label": "Tension in leadership discipline",
+    "definition": "Clarify expectations about authority, correction and accountability for community and ministry commitments.",
+    "sector": "Philippines",
+    "category": "Brothers Assembly",
+    "source_cluster": "2. Leadership of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C17",
+    "label": "Leadership accountability",
+    "definition": "Use feedback, evaluation and transparent outcomes to ensure responsible leadership and action.",
+    "sector": "Philippines, Malaysia, Hong Kong, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Leadership of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C22",
+    "label": "Mission Council and coordinated direction",
+    "definition": "Coordinate mission direction, stakeholder expertise, evangelization, justice, peace and resource deployment.",
+    "sector": "Japan, Philippines, Thailand, Malaysia, Hong Kong",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Leadership of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C33",
+    "label": "Mission evidence, documentation, and impact accountability",
+    "definition": "Document, communicate and evaluate mission activity to demonstrate impact and guide decisions.",
+    "sector": "Philippines, Singapore, Japan, Malaysia, Hong Kong",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "2. Leadership of the Brothers (5BA)"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C34",
+    "label": "International deployment and local capacity",
+    "definition": "Balance international service with local staffing, vocation and community capacity.",
+    "sector": "Philippines, Malaysia",
+    "category": "Brothers Assembly",
+    "source_cluster": "For the Brothers"
+  },
+  {
+    "theme": "Leadership",
+    "order": 4,
+    "code": "C35",
+    "label": "Digital inclusion and information access",
+    "definition": "Keep important information accessible through suitable digital and physical formats.",
+    "sector": "Philippines",
+    "category": "Brothers Assembly",
+    "source_cluster": "For the Brothers"
+  },
+  {
+    "theme": "Vocation Animation",
+    "order": 5,
+    "code": "C7",
+    "label": "Vocation Animation",
+    "definition": "Promote vocations through shared witness, accompaniment, community experience and sustained programmes.",
+    "sector": "Philippines, Hong Kong, Myanmar, Singapore, Thailand, Malaysia, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Vocation Animation (5BA)"
+  },
+  {
+    "theme": "Vocation Animation",
+    "order": 5,
+    "code": "C37",
+    "label": "Vocational and Ministerial Tensions",
+    "definition": "Navigate tensions between institutional demands, pastoral presence, spiritual purpose and service to the poor.",
+    "sector": "Philippines, Singapore",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "3. Vocation Animation (5BA)"
+  },
+  {
+    "theme": "Vocation Animation",
+    "order": 5,
+    "code": "C13",
+    "label": "Rationalized organizational structures",
+    "definition": "Simplify governance, committees, roles and assignments to reduce complexity and overextension.",
+    "sector": "Philippines",
+    "category": "Brothers Assembly",
+    "source_cluster": "3. Vocation Animation (5BA)"
+  },
+  {
+    "theme": "Vocation Animation",
+    "order": 5,
+    "code": "C41",
+    "label": "Privatisation and educational mission renewal",
+    "definition": "Renew educational provision through mission-led restructuring, privatization and new vocational or special-needs initiatives.",
+    "sector": "Malaysia",
+    "category": "Mission Assembly",
+    "source_cluster": "3. Vocation Animation (5BA)"
+  },
+  {
+    "theme": "Sustainability of the Mission",
+    "order": 6,
+    "code": "C11",
+    "label": "Sustainability of high-needs ministries",
+    "definition": "Secure lasting financial, human and institutional support for ministries serving high-needs communities.",
+    "sector": "Philippines, Japan, Hong Kong, Myanmar, Singapore, Thailand, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Sustainability of the Mission"
+  },
+  {
+    "theme": "Sustainability of the Mission",
+    "order": 6,
+    "code": "C25",
+    "label": "Structural and operational barriers",
+    "definition": "Reduce regulatory, logistical, language, scheduling and communication barriers to mission activity.",
+    "sector": "Japan, Hong Kong, Philippines, Myanmar, Singapore, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Sustainability of the Mission"
+  },
+  {
+    "theme": "Sustainability of the Mission",
+    "order": 6,
+    "code": "C39",
+    "label": "Demographic and academic competition pressures",
+    "definition": "Respond to low birth rates and competition for academic excellence.",
+    "sector": "Thailand, Hong Kong, Japan",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Sustainability of the Mission"
+  },
+  {
+    "theme": "Communication and Engagement",
+    "order": 7,
+    "code": "C21",
+    "label": "Uneven District resolution across the Sector",
+    "definition": "Address uneven awareness of, and participation in, District resolutions across sectors.",
+    "sector": "Japan, Singapore, Malaysia, Hong Kong",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Communication and Engagement"
+  },
+  {
+    "theme": "Communication and Engagement",
+    "order": 7,
+    "code": "C23",
+    "label": "Reflective and dialogical spaces",
+    "definition": "Create spaces for discernment, listening, relationships, feedback and shared learning.",
+    "sector": "Japan, Hong Kong, Philippines, Thailand",
+    "category": "Mission Assembly",
+    "source_cluster": "Communication and Engagement"
+  },
+  {
+    "theme": "Communication and Engagement",
+    "order": 7,
+    "code": "C31",
+    "label": "Dignified and relationship-based engagement",
+    "definition": "Accompany people through listening, trust, privacy, dignity and awareness of hidden needs.",
+    "sector": "Hong Kong, Philippines, Singapore, Japan, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Communication and Engagement"
+  },
+  {
+    "theme": "Communication and Engagement",
+    "order": 7,
+    "code": "C27",
+    "label": "Balance between online and in-person collaboration",
+    "definition": "Balance online and in-person collaboration, recognizing the value and limits of each.",
+    "sector": "Japan, Hong Kong, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Communication and Engagement"
+  },
+  {
+    "theme": "Engaging other stakeholders",
+    "order": 8,
+    "code": "C28",
+    "label": "Strength of alumni",
+    "definition": "Engage alumni as a strong but underused resource for the mission.",
+    "sector": "Japan, Hong Kong, Malaysia",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "Engaging other stakeholders"
+  },
+  {
+    "theme": "Engaging other stakeholders",
+    "order": 8,
+    "code": "C29",
+    "label": "Student ownership and servant leadership",
+    "definition": "Enable young people to identify needs, exercise voice and sustain leadership through service.",
+    "sector": "Hong Kong, Philippines, Singapore, Thailand, Malaysia",
+    "category": "Mission Assembly",
+    "source_cluster": "Engaging other stakeholders"
+  },
+  {
+    "theme": "Engaging other stakeholders",
+    "order": 8,
+    "code": "C30",
+    "label": "Transactional service mindset and parental concerns",
+    "definition": "Address rewards, certificates, time costs, safety and academic concerns that weaken service's formative purpose.",
+    "sector": "Hong Kong, Philippines, Singapore",
+    "category": "Mission Assembly",
+    "source_cluster": "Engaging other stakeholders"
+  },
+  {
+    "theme": "Additional concern for the Brothers",
+    "order": 9,
+    "code": "C38",
+    "label": "Technology and AI in teaching and learning",
+    "definition": "Adapt teaching and learning to technology and AI while protecting students' thinking skills.",
+    "sector": "Thailand",
+    "category": "Mission Assembly; Brothers Assembly",
+    "source_cluster": "For the Brothers"
+  }
+]
